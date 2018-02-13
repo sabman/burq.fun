@@ -27,8 +27,8 @@ const Html = ({ body, headComponents, postBodyComponents }) => {
         <meta property="og:type" content="website" />
         <meta property="og:image" content={openGraphUrl} />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@oliverbenns" />
-        <meta name="twitter:creator" content="@oliverbenns" />
+        <meta name="twitter:site" content="@sabman" />
+        <meta name="twitter:creator" content="@sabman" />
         <meta property="twitter:image" content={openGraphUrl} />
 
         {/* Favicon */}

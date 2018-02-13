@@ -20,30 +20,37 @@ const About = ({ location }) => (
       <div className={styles.about}>
         <section className={styles.intro}>
           <h1>Hello world.</h1>
-          <p>I’m a freelance web developer currently situated in Norwich, United Kingdom. I’ve had the pleasure to be in the industry for 4 years.</p>
-          <p>I first began my journey into code whilst studying Multimedia at <OutboundLink to="https://twitter.com/oliverbenns/status/345433447810101248">Nottingham Trent University</OutboundLink>. During my final year, I juggled assignments with part time work at <OutboundLink to="http://wearejh.com">JH</OutboundLink> where I maintained existing e-commerce websites by squashing bugs and adding new features. I gained a considerable amount of experience that I needed to step into the industry.</p>
+          <p>I’m a freelance software developer and geomatics engineer currently situated in Berlin, Germany. I’ve had the pleasure to be in the industry for 10 years.</p>
+          <p>I studies Computer Science and Geomatic Engineering at Melbourne University.</p>
 
-          <p>Once obtaining my degree, I flew to Melbourne, Australia and worked with <OutboundLink to="http://inlight.com.au">Inlight</OutboundLink> for 3 years. I was responsible for the front end web development of various projects, such as web applications, mobile apps, static websites, online stores and blogs. With the variety of work and my attitude towards learning, I quickly grew from a graduate into a dependable, valuable front end developer that could work both solo and in teams.</p>
+          <p>Once obtaining my degree, I worked on one of first detailed underwater mapping projects in coastal Australia.</p>
+
+          <p>After that I worked with the Australian Federal Government where I was responsible for the largest marine samples data in Australia.</p>
+
+          <p>In 2009 I lead a team of volunteers through the mapping of the worst bushfires Australia had ever seen.</p>
 
           <p>I now work on a freelance basis working on both ideas of my own and others. If you have a project in mind, <Link to="/contact">get in touch</Link>.</p>
         </section>
         <aside className={styles.skills}>
           <div>
             <h3>Skills</h3>
+
             <h4>Presentation</h4>
             <p>Bootstrap, Css, Html, Less, Postcss, Sass, Stylus</p>
+
             <h4>Javascript</h4>
-            <p>Angular, Grunt, Gulp, jQuery, Pug, React, React Native, Redux, Webpack</p>
+            <p>React, React Native, Redux, Webpack</p>
+
             <h4>Server</h4>
             <p>Express, Mongo, Node, SQL</p>
+
             <h4>Other</h4>
             <p>C, CI, Git, Svn, Unity 3D</p>
           </div>
-
         </aside>
       </div>
 
-      <section>
+      {/* <section>
         <h2>What people say</h2>
         <div className={styles.referrals}>
           <div className={styles.referral}>
@@ -70,7 +77,7 @@ const About = ({ location }) => (
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
     </Wrapper>
   </ContentPage>
 );

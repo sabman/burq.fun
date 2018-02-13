@@ -1,5 +1,5 @@
 {
-  "name": "oliverbenns",
+  "name": "sabman",
   "version": "1.0.0",
   "description": "",
   "license": "MIT",
@@ -25,6 +25,7 @@
     "lint": "eslint --ext .js,.jsx --ignore-path .gitignore .",
     "build": "rm -rf public; gatsby build",
     "develop": "gatsby develop",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gatsby build && gh-pages -b master -d public",
   }
 }
