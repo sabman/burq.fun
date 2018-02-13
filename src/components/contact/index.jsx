@@ -10,48 +10,53 @@ const Contact = ({ title }) => (
     <h1>{title || 'I like messages.'}</h1>
     <p className={styles.email}>
       Say hello and send an email:<br />
-      <a href="mailto:info@burq.fun?subject=Hello%20Shoaib!" className={styles.link}>info@burq.fun</a>
+      <a href="mailto:saburq@gmail.com?subject=Hello%20Shoaib!" className={styles.link}>saburq@gmail.com</a>
     </p>
     <div className={styles.lineBreak} />
     <ul className={styles.social}>
       <li>
         <OutboundLink to="https://github.com/sabman/">
-          <Icon name="github" />
+          <Icon name="github" /> code
         </OutboundLink>
       </li>
       <li>
         <OutboundLink to="https://scholar.google.com/citations?hl=en&view_op=list_works&user=Pg-Ik9AAAAAJ">
-          <Icon name="googlescholar" />
+          <Icon name="googlescholar" /> papers
         </OutboundLink>
       </li>
       <li>
         <OutboundLink to="https://leanpub.com/u/sabman">
-          <Icon name="leanpub" />
+          <Icon name="leanpub" /> books
         </OutboundLink>
       </li>
       <li>
         <OutboundLink to="https://medium.com/@sabman/">
-          <Icon name="medium" />
+          <Icon name="medium" /> writings
+        </OutboundLink>
+      </li>
+      <li>
+        <OutboundLink to="https://www.goodreads.com/user/show/15529944-shoaib-burq">
+          <Icon name="goodreads" /> reading
         </OutboundLink>
       </li>
       <li>
         <OutboundLink to="https://www.linkedin.com/in/shoaibburq/">
-          <Icon name="linkedin" />
+          <Icon name="linkedin" /> linkedin
         </OutboundLink>
       </li>
       <li>
         <OutboundLink to="https://twitter.com/sabman/">
-          <Icon name="twitter" />
+          <Icon name="twitter" /> tweets
         </OutboundLink>
       </li>
       <li>
         <OutboundLink to="https://www.instagram.com/sabman">
-          <Icon name="instagram" />
+          <Icon name="instagram" /> instagram
         </OutboundLink>
       </li>
       <li>
         <OutboundLink to="https://soundcloud.com/sabman">
-          <Icon name="soundcloud" />
+          <Icon name="soundcloud" /> music
         </OutboundLink>
       </li>
     </ul>
