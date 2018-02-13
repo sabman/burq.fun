@@ -1,0 +1,76 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-work-index-jsx": [
+      "component---src-pages-work-index-jsx-6bd5d737df76d58dbeea.js",
+      "component---src-pages-work-index-jsx-6bd5d737df76d58dbeea.js.map"
+    ],
+    "path---work": [
+      "path---work-a0e39f21c11f6a62c5ab.js",
+      "path---work-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-32c83a47ea4bb19d2399.js",
+      "component---src-layouts-index-jsx-32c83a47ea4bb19d2399.js.map"
+    ],
+    "component---src-pages-contact-index-jsx": [
+      "component---src-pages-contact-index-jsx-f3ef3917e4e613b94bc0.js",
+      "component---src-pages-contact-index-jsx-f3ef3917e4e613b94bc0.js.map"
+    ],
+    "component---src-pages-about-index-jsx": [
+      "component---src-pages-about-index-jsx-f22fc8e9ac666e370dd8.js",
+      "component---src-pages-about-index-jsx-f22fc8e9ac666e370dd8.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "commons": [
+      "commons-5afb6fccc5adb1cab627.js",
+      "build-js-styles.css",
+      "commons-5afb6fccc5adb1cab627.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-jsx": [
+      "component---src-pages-404-jsx-7ed0978c5e34eccc353e.js",
+      "component---src-pages-404-jsx-7ed0978c5e34eccc353e.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---work-cityatlas": [
+      "path---work-cityatlas-a0e39f21c11f6a62c5ab.js",
+      "path---work-cityatlas-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-92d53bec107168dac683.js",
+      "component---src-pages-index-jsx-92d53bec107168dac683.js.map"
+    ],
+    "app": [
+      "app-10441dc56ef6113f6aaa.js",
+      "build-js-styles.css",
+      "app-10441dc56ef6113f6aaa.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-work-cityatlas-index-jsx": [
+      "component---src-pages-work-cityatlas-index-jsx-4c138219011179792510.js",
+      "component---src-pages-work-cityatlas-index-jsx-4c138219011179792510.js.map"
+    ]
+  }
+}
