@@ -50,34 +50,6 @@ const About = ({ location }) => (
         </aside>
       </div>
 
-      {/* <section>
-        <h2>What people say</h2>
-        <div className={styles.referrals}>
-          <div className={styles.referral}>
-            <img src={lighthouseSrc} alt="Lighthouse logo" />
-            <div>
-              <h4>Patrick Carne, Lighthouse</h4>
-              <p>“Over the last 3 years Oliver has grown into a solid front-end developer, with an ability and eagerness to pick up new technologies quickly. I have no doubt Oliver will go on to be an exceptional developer in any area he chooses to focus.”</p>
-            </div>
-          </div>
-
-          <div className={styles.referral}>
-            <img src={inlightSrc} alt="Inlight logo" />
-            <div>
-              <h4>Sina Karimi, Inlight</h4>
-              <p>“Oliver is an exceptional front end developer. He has grown rapidly over the past few years to be a valuable member of any development team. It has been a real pleasure to work with him over the years.”</p>
-            </div>
-          </div>
-
-          <div className={styles.referral}>
-            <img src={ahmSrc} alt="Ahm logo" />
-            <div>
-              <h4>James Hanley, Ahm</h4>
-              <p>“I worked with Oliver on a number of projects for the Ahm websites. When a new brief would come in he was consultative and logical in his approach to help us define a solution to our business problem. His collaborative approach and comfort with clients/business makes him a great addition to a digital development team.”</p>
-            </div>
-          </div>
-        </div>
-      </section> */}
     </Wrapper>
   </ContentPage>
 );

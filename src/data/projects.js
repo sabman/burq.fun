@@ -1,14 +1,16 @@
 const projects = [
   {
     className: 'City Atlas (Australia)',
-    description: 'Web app to allow childcare centre managers to monitor and control absences, bookings and capacities.',
+    description: 'Web app to see access to different services across Australian cities.',
     links: {
       website: 'http://cityatlas.com.au/',
     },
-    slug: 'kindynow',
-    title: 'KindyNow',
+    slug: 'cityatlas',
+    title: 'City Atlas',
+    // cover: require('./cityatlas.png'),
     theme: {
-      background: '#9a9a9a',
+      background: '#f4f5fa',
+      light: true, // Invert text color.
     },
   }
 ];
