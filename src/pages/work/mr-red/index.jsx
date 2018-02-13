@@ -19,7 +19,7 @@ const MrRed = ({ location }) => {
 
   const image = (
     <div className={styles.avatar}>
-      <img src={project.cover} alt="Cover" />
+      <img src={project.cover || ''} alt="Cover" />
     </div>
   );
 

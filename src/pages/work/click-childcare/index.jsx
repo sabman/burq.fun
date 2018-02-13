@@ -20,7 +20,7 @@ const Click = ({ location }) => {
 
   const image = (
     <div className={styles.image}>
-      <img src={project.cover} alt="Cover" />
+      <img src={project.cover || ''} alt="Cover" />
     </div>
   );
 

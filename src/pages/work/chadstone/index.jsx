@@ -29,7 +29,7 @@ const Chadstone = ({ location }) => {
   const project = projects.find(p => p.slug === 'chadstone');
 
   const image = (
-    <img src={project.cover} alt="Cover" />
+    <img src={project.cover || ''} alt="Cover" />
   );
 
   const iphone = (

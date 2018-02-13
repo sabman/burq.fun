@@ -32,7 +32,7 @@ const Ahm = ({ location }) => {
 
   const logo = (
     <div className={styles.image}>
-      <img src={project.cover} alt="Cover" />
+      <img src={project.cover || ''} alt="Cover" />
     </div>
   );
 
