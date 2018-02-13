@@ -27,6 +27,7 @@
     "build": "rm -rf public; gatsby build",
     "develop": "gatsby develop",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gatsby build && gh-pages -b gh-pages -d public"
+    "deploy": "npm run cleanup && gatsby build && gh-pages -b gh-pages -d public",
+    "cleanup": "rm -rf node_modules/gh-pages/.cache"
   }
 }
