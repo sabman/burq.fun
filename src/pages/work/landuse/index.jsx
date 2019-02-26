@@ -25,7 +25,7 @@ const images = {
 };
 
 const Cityatlas = ({ location }) => {
-  const project = projects.find(p => p.slug === "cityatlas");
+  const project = projects.find(p => p.slug === "landuse");
 
   const image = (
     <div className={styles.image}>
