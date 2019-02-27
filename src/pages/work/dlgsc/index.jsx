@@ -16,8 +16,9 @@ import styles from "./styles.module.css";
 
 const images = {
   desktop: [
-    { src: require("./img/1.png"), description: "City Atlas (screenshot 1)" },
-    { src: require("./img/2.png"), description: "City Atlas (screenshot 2)" }
+    { src: require("./img/1.png"), description: "DLGSC (screenshot 1)" },
+    { src: require("./img/2.png"), description: "DLGSC (screenshot 2)" },
+    { src: require("./img/3.png"), description: "DLGSC (screenshot 3)" }
   ],
   mobile: [
     { src: require("./img/1.png"), description: "kindyNow centre detail rooms" }

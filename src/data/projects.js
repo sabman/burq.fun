@@ -10,7 +10,7 @@ const projects = [
     },
     slug: "cityatlas",
     title: "City Atlas",
-    cover: require("./cityatlas.png"),
+    cover: require("./cityatlas.gif"),
     theme: {
       background: "#00a5d1"
       // light: true // Invert text color.
@@ -36,19 +36,18 @@ const projects = [
   {
     className: "click",
     summary:
-      "Public access a range of information on different population groups sourced from the national Census of Population and Housing",
+      "UNLOCK YOUR ECONOMY: Track event impact, economic growth, online, visitor and escape expenditure",
     description:
-      "The Office of Multicultural Interests developed this website so that Members of Parliament, State Government agencies, local governments, non-government organisations (NGOs), community groups, students and other members of the public, would be able to access a range of information on different population groups sourced from the national Census of Population and Housing. Information is available for key demographic, cultural and socioeconomic characteristics of people living across the State. It profiles these characteristics for all Western Australian electoral divisions and local government areas.",
+      "Spendmapp is an online application that allows users to view expenditure activity in and from their region. It does this by taking bank transaction (EFTPOS) data and applying a proprietary data transformation to capture virtually all economic activity within a region.",
     links: {
-      // website: "http://vimeo.com/320035818"
-      website: "https://geografia.com.au/dlgsc/"
+      website: "http://spendmapp.com.au/"
     },
-    slug: "dlgsc",
-    title: "DLGSC Cultural Atlas of Western Australia",
-    cover: require("./dlgsc.png"),
+    slug: "spendmapp",
+    title: "Spendmapp",
+    cover: require("./spendmapp.png"),
     theme: {
-      background: "#a77e60"
-      // light: true // Invert text color.
+      background: "#bdf1ff",
+      light: true // Invert text color.
     }
   },
   {
@@ -70,18 +69,19 @@ const projects = [
   {
     className: "click",
     summary:
-      "UNLOCK YOUR ECONOMY: Track event impact, economic growth, online, visitor and escape expenditure",
+      "Public access a range of information on different population groups sourced from the national Census of Population and Housing",
     description:
-      "Spendmapp is an online application that allows users to view expenditure activity in and from their region. It does this by taking bank transaction (EFTPOS) data and applying a proprietary data transformation to capture virtually all economic activity within a region.",
+      "The Office of Multicultural Interests developed this website so that Members of Parliament, State Government agencies, local governments, non-government organisations (NGOs), community groups, students and other members of the public, would be able to access a range of information on different population groups sourced from the national Census of Population and Housing. Information is available for key demographic, cultural and socioeconomic characteristics of people living across the State. It profiles these characteristics for all Western Australian electoral divisions and local government areas.",
     links: {
-      website: "http://spendmapp.com.au/"
+      // website: "http://vimeo.com/320035818"
+      website: "https://geografia.com.au/dlgsc/"
     },
-    slug: "spendmapp",
-    title: "Spendmapp",
-    cover: require("./spendmapp.png"),
+    slug: "dlgsc",
+    title: "DLGSC Cultural Atlas of Western Australia",
+    cover: require("./dlgsc.png"),
     theme: {
-      background: "#bdf1ff",
-      light: true // Invert text color.
+      background: "#a77e60"
+      // light: true // Invert text color.
     }
   }
 ];
