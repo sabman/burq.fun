@@ -83,6 +83,22 @@ const projects = [
       background: "#a77e60"
       // light: true // Invert text color.
     }
+  },
+  {
+    className: "kindyNow",
+    summary: "Deep Learning Hardware & Software Stack",
+    description:
+      "Applied research in deep learning requires the fastest possible experiment turnaround times to rapidly explore multiple network architectures and manipulate and curate datasets to reduce solution delivery times for internal and external customers. The Deep Learning Box is a system that is designed and built for this specific task. Our goal is to build the fastest machine learning training device that you can plug and play for all your deep learning workloads.",
+    links: {
+      website: "http://deeplearningbox.com/"
+    },
+    slug: "dlb",
+    title: "Deep Learning Box",
+    cover: require("./dlb.png"),
+    theme: {
+      background: "#f4f5fa",
+      light: true // Invert text color.
+    }
   }
 ];
 
