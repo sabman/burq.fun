@@ -49,10 +49,14 @@
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "commons": [
-      "commons-c6655c1823fad6957bd0.js",
+      "commons-0926e740f08035afaa77.js",
       "build-js-styles.css",
-      "commons-c6655c1823fad6957bd0.js.map",
+      "commons-0926e740f08035afaa77.js.map",
       "build-js-styles.css.map"
+    ],
+    "component---src-pages-work-dlb-index-jsx": [
+      "component---src-pages-work-dlb-index-jsx-53f4b4965f3c880d6e2e.js",
+      "component---src-pages-work-dlb-index-jsx-53f4b4965f3c880d6e2e.js.map"
     ],
     "path---work-dlgsc": [
       "path---work-dlgsc-a0e39f21c11f6a62c5ab.js",
@@ -82,10 +86,14 @@
       "component---src-pages-index-jsx-512c723b5389e8dbe42d.js",
       "component---src-pages-index-jsx-512c723b5389e8dbe42d.js.map"
     ],
+    "path---work-dlb": [
+      "path---work-dlb-a0e39f21c11f6a62c5ab.js",
+      "path---work-dlb-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "app": [
-      "app-e02f2c9fe0e9061a5075.js",
+      "app-8a91cbbed492669f9540.js",
       "build-js-styles.css",
-      "app-e02f2c9fe0e9061a5075.js.map",
+      "app-8a91cbbed492669f9540.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
