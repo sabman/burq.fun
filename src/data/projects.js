@@ -1,5 +1,22 @@
 const projects = [
   {
+    className: "kindyNow",
+    summary:
+      "GeoDB",
+    description:
+      "Cloud Hosted PostGIS & CartoDB",
+    links: {
+      website: "http://getgeodb.com"
+    },
+    slug: "geodb",
+    title: "GeoDB",
+    cover: require("./geodb.png"),
+    theme: {
+      background: "#F7F7F7",
+      light: true // Invert text color.
+    }
+  },
+  {
     className: "click",
     summary:
       "The City Atlas is a project exploring spatial patterns across metropolitan areas",
