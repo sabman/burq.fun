@@ -28,9 +28,17 @@
       "component---src-layouts-index-jsx-32c83a47ea4bb19d2399.js",
       "component---src-layouts-index-jsx-32c83a47ea4bb19d2399.js.map"
     ],
+    "component---src-pages-work-geodb-index-jsx": [
+      "component---src-pages-work-geodb-index-jsx-bd464739863da4b908a6.js",
+      "component---src-pages-work-geodb-index-jsx-bd464739863da4b908a6.js.map"
+    ],
     "component---src-pages-contact-index-jsx": [
       "component---src-pages-contact-index-jsx-633a35dc8b58b055ea4b.js",
       "component---src-pages-contact-index-jsx-633a35dc8b58b055ea4b.js.map"
+    ],
+    "path---work-geodb": [
+      "path---work-geodb-a0e39f21c11f6a62c5ab.js",
+      "path---work-geodb-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-about-index-jsx": [
       "component---src-pages-about-index-jsx-f057c001df135ac77e35.js",
@@ -49,9 +57,9 @@
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "commons": [
-      "commons-553a1bb973c9bcdedbf8.js",
+      "commons-6f6848b3bc88b77f8073.js",
       "build-js-styles.css",
-      "commons-553a1bb973c9bcdedbf8.js.map",
+      "commons-6f6848b3bc88b77f8073.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-work-dlb-index-jsx": [
@@ -91,9 +99,9 @@
       "path---work-dlb-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-8a91cbbed492669f9540.js",
+      "app-e0436603fcc4b49cd3af.js",
       "build-js-styles.css",
-      "app-8a91cbbed492669f9540.js.map",
+      "app-e0436603fcc4b49cd3af.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
