@@ -1,15 +1,15 @@
 const projects = [
   {
-    className: "kindyNow",
+    className: "click",
     summary:
-      "GeoDB",
+      "GeoDB Cloud Hosted PostGIS & CartoDB",
     description:
-      "Cloud Hosted PostGIS & CartoDB",
+      "Dedicated PostGIS & CartoDB with simple pricing and no quotas or limits.",
     links: {
       website: "http://getgeodb.com"
     },
     slug: "geodb",
-    title: "GeoDB",
+    title: "GeoDB: Dedicated PostGIS & CartoDB in the Cloud",
     cover: require("./geodb.png"),
     theme: {
       background: "#F7F7F7",
@@ -17,7 +17,7 @@ const projects = [
     }
   },
   {
-    className: "click",
+    className: "kindyNow",
     summary:
       "The City Atlas is a project exploring spatial patterns across metropolitan areas",
     description:
@@ -29,12 +29,12 @@ const projects = [
     title: "City Atlas",
     cover: require("./cityatlas.gif"),
     theme: {
-      background: "#00a5d1"
-      // light: true // Invert text color.
+      background: "#00a5d1",
+      light: true // Invert text color.
     }
   },
   {
-    className: "kindyNow",
+    className: "click",
     summary:
       "Geospatial Land Use & Planning tool based on machine learning models",
     description:
@@ -51,7 +51,7 @@ const projects = [
     }
   },
   {
-    className: "click",
+    className: "kindyNow",
     summary:
       "UNLOCK YOUR ECONOMY: Track event impact, economic growth, online, visitor and escape expenditure",
     description:
@@ -68,7 +68,7 @@ const projects = [
     }
   },
   {
-    className: "kindyNow",
+    className: "click",
     summary: "Cloud Based Geospatial Database as a Service",
     description:
       "SpacialDB, is a backend (think database) for Web and Mobile apps with a strong emphasis on Geospatial functionality. We provide developers with an easy to use API to quickly import, query and update their data without needing to worry about the backend management, maintenance and scaling. The service makes it really easy for developers to build advanced Geospatial applications directly via their iPhone, Android or WP7 SDKs. SpacialDB also integrates with existing cloud hosting services such as Heroku, Engine Yard, Joyent and Rackspace for Web apps. In 2015 it was acquired by QGISCloud",
@@ -84,7 +84,7 @@ const projects = [
     }
   },
   {
-    className: "click",
+    className: "kindyNow",
     summary:
       "Public access a range of information on different population groups sourced from the national Census of Population and Housing",
     description:
@@ -102,7 +102,7 @@ const projects = [
     }
   },
   {
-    className: "kindyNow",
+    className: "click",
     summary: "Deep Learning Hardware & Software Stack",
     description:
       "Applied research in deep learning requires the fastest possible experiment turnaround times to rapidly explore multiple network architectures and manipulate and curate datasets to reduce solution delivery times for internal and external customers. The Deep Learning Box is a system that is designed and built for this specific task. Our goal is to build the fastest machine learning training device that you can plug and play for all your deep learning workloads.",
@@ -116,7 +116,8 @@ const projects = [
       background: "#f4f5fa",
       light: true // Invert text color.
     }
-  }
+  },
+  
 ];
 
 export default projects;
